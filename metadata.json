@@ -1,0 +1,6 @@
+{
+  "name": "DV Software Solutions",
+  "description": "A premium modern SaaS website for DV Software Solutions, featuring 3D animations, Framer Motion, and a dark glassmorphism theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
